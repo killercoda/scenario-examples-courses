@@ -1,0 +1,7 @@
+{
+  "title": "Scenario FOUR",
+  "description": "This is the description of scenario FOUR in course TWO",
+  "backend": {
+    "imageid": "ubuntu20.04"
+  }
+}

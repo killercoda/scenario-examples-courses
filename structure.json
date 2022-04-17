@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "path": "scenario2" },
+    { "path": "course1", "title": "Override title of course ONE" },
+    { "path": "course2" }
+  ]
+}
