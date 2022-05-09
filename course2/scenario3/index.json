@@ -2,6 +2,6 @@
   "title": "Scenario THREE",
   "description": "This is the description of scenario THREE in course TWO",
   "backend": {
-    "imageid": "ubuntu20.04"
+    "imageid": "ubuntu"
   }
 }
