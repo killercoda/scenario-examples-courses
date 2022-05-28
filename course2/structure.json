@@ -9,6 +9,7 @@
       "path": "../course1/scenario2",
       "title": "New title for scenario TWO",
       "description": "We reference a scenario from another directory and override title and description"
-    }
+    },
+    { "path": "category1/scenarioB" }
   ]
 }
